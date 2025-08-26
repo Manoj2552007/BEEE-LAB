@@ -1,6 +1,6 @@
 # BEEE 
-## NAME: Kishore B
-## REG. NO: 212224100032
+## NAME: Manoj R
+## REG. NO: 212224230152
 
 ---
 
@@ -66,7 +66,7 @@ Kirchhoff's Current Law states that the algebraic sum of the currents entering a
 ![KVL Circuit](https://github.com/user-attachments/assets/bd8e7e45-6e84-4dce-bdfb-00346ba61912)
 
 ### b. KCL
-![KCL Circuit](https://github.com/user-attachments/assets/b14f8d13-7c17-4f27-97c9-f59115a842c3)
+![WhatsApp Image 2025-08-26 at 13 34 53_e6d52bdf](https://github.com/user-attachments/assets/45196968-fd8c-4aeb-8426-8bd3a3b4f13e)
 
 ---
 
